@@ -45,11 +45,15 @@ wget -O SPECTER-v3.0.2-dev-QA.tar.gz https://github.com/SydikLabs/SPECTER/raw/re
 
 Step 2 — Extract the package
 
+```bash
 tar -xzf SPECTER-v3.0.2-dev-QA.tar.gz
+```
 
 Enter the extracted directory:
 
+```bash
 cd SPECTER-v3.0.2-dev
+```
 
 If the extracted directory has a different name, check it with:
 
@@ -59,11 +63,15 @@ Step 3 — Install SPECTER
 
 Run the installer with sudo:
 
+```bash
 sudo ./install.sh specter
+```
 
 If you are already operating as root:
 
+```bash
 ./install.sh specter
+```
 
 Follow the installer's instructions and review any requested system changes.
 
@@ -71,7 +79,9 @@ Step 4 — Verify installation
 
 After installation, execute:
 
+```bash
 specter --version
+```
 
 If the command returns the installed version, the CLI is accessible.
 
@@ -79,7 +89,9 @@ Optional — Device smoke test
 
 From the extracted project directory:
 
+```bash
 bash tests/device-smoke.sh
+```
 
 This test is optional and depends on the test script being included in the package.
 
