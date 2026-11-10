@@ -39,7 +39,9 @@ Step 1 — Download SPECTER
 
 Open your terminal and execute:
 
+```bash
 wget -O SPECTER-v3.0.2-dev-QA.tar.gz https://github.com/SydikLabs/SPECTER/raw/refs/heads/main/SPECTER-v3.0.2-dev-QA.tar.gz
+```
 
 Step 2 — Extract the package
 
