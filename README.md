@@ -19,7 +19,7 @@ SPECTER brings multiple security assessment workflows together in one platform.
 
 📦 Current Version
 
-SPECTER v3.0.2-dev-QA
+SPECTER v3.0.2
 
 «This is a development and quality-assurance build. Features, compatibility, and workflows may change.»
 
@@ -40,13 +40,13 @@ Step 1 — Download SPECTER
 Open your terminal and execute:
 
 ```bash
-wget -O SPECTER-v3.0.2-dev-QA-FIXED.tar.gz https://github.com/SydikLabs/SPECTER/raw/refs/heads/main/SPECTER-v3.0.2-dev-QA-FIXED.tar.gz
+wget -O SPECTER-v3.0.2.tar.gz https://github.com/SydikLabs/SPECTER/raw/refs/heads/main/SPECTER-v3.0.2.tar.gz
 ```
 
 Step 2 — Extract the package
 
 ```bash
-tar -xzf SPECTER-v3.0.2-dev-QA-FIXED.tar.gz
+tar -xzf SPECTER-v3.0.2.tar.gz
 ```
 
 Enter the extracted directory:
