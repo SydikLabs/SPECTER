@@ -40,13 +40,13 @@ Step 1 — Download SPECTER
 Open your terminal and execute:
 
 ```bash
-wget -O SPECTER-v3.0.2.tar.gz https://github.com/SydikLabs/SPECTER/raw/refs/heads/main/SPECTER-v3.0.2.tar.gz
+wget -O SPECTER-v3.0.1.tar.gz https://github.com/SydikLabs/SPECTER/raw/refs/heads/main/SPECTER-v3.0.1.tar.gz
 ```
 
 Step 2 — Extract the package
 
 ```bash
-tar -xzf SPECTER-v3.0.2.tar.gz
+tar -xzf SPECTER-v3.0.1.tar.gz
 ```
 
 Enter the extracted directory:
