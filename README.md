@@ -19,7 +19,7 @@ SPECTER brings multiple security assessment workflows together in one platform.
 
 📦 Current Version
 
-SPECTER v3.0.2
+SPECTER v3.0.1
 
 «This is a development and quality-assurance build. Features, compatibility, and workflows may change.»
 
@@ -52,7 +52,7 @@ tar -xzf SPECTER-v3.0.1.tar.gz
 Enter the extracted directory:
 
 ```bash
-cd SPECTER-v3.0.2-dev
+cd SPECTER-v3.0.1
 ```
 
 If the extracted directory has a different name, check it with:
